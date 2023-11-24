@@ -1,0 +1,21 @@
+{
+    "name": "md-tech/qrcode",
+    "require": {
+        "php": ">7.0"
+    },
+    "license": "l",
+    "authors": [
+        {
+            "name": "yuanhong.zhang",
+            "email": "18257187037@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MdTech\\qrcode\\": "src/"
+        },
+        "files": [
+            "src/phpqrcode.php"
+        ]
+    }
+}
