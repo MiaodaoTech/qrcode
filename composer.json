@@ -3,7 +3,7 @@
     "require": {
         "php": ">7.0"
     },
-    "license": "l",
+    "license": "MIT",
     "authors": [
         {
             "name": "yuanhong.zhang",
